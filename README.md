@@ -34,6 +34,7 @@ I am an IT enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: In my free time, I create new designs for my fiver web developing gig.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jochim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jochim-edago-b4a563243/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
