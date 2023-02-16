@@ -51,3 +51,9 @@ I am an IT enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mochimosh101&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochimosh101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
