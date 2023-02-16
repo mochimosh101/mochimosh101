@@ -12,10 +12,24 @@
   </a>
   <h1>
     
-  Jochim Edago
+  👻Jochim Edago👻
     
   </h1>
 </div>
+  
 <div align="center">
-  <img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4MDk1MzMyNjhiYjkyZDFkNjUzNmRhMzg0OWVjNGY4NDQ2YTczMyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
+  
+---
+
+### :man_technologist: About Me :
+I am an IT enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> that was self-thought.
+  
+- :telescope: I’m always working as a freelancer on fiver with making websites and studying new technology with an IT Job.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I create new designs for my fiver web developing gig.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jochim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jochim-edago-b4a563243/)
