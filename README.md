@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20IT%2FTech%20support;2%2B%20years%20of%20coding%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jochim-edago-b4a563243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +20,6 @@
   </h1>
 </div>
 </div>
-  
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ4MDk1MzMyNjhiYjkyZDFkNjUzNmRhMzg0OWVjNGY4NDQ2YTczMyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
