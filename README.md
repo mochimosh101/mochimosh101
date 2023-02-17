@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20IT%2FTech%20support;2%2B%20years%20of%20coding%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=System%20Administrator;Experienced%20IT%2FTech%20support;2%2B%20years%20of%20hardware%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jochim-edago-b4a563243/">
